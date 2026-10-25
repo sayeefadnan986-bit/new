@@ -1,0 +1,27 @@
+{
+  "max_articles_per_source": 8,
+  "max_articles_per_category": 100,
+  "max_total_articles": 1800,
+  "categories": [
+    {"name":"World News","query":"world international latest news","sources":["bbc.com","reuters.com","apnews.com","theguardian.com"]},
+    {"name":"Bangladesh","query":"Bangladesh latest news","sources":["thedailystar.net","bdnews24.com","dhakatribune.com","prothomalo.com"]},
+    {"name":"Technology","query":"technology latest news","sources":["theverge.com","techcrunch.com","arstechnica.com"]},
+    {"name":"Science","query":"science research discovery news","sources":["science.org","nature.com","scientificamerican.com"]},
+    {"name":"Artificial Intelligence","query":"artificial intelligence AI news","sources":["technologyreview.com","theverge.com","techcrunch.com"]},
+    {"name":"Space","query":"space astronomy NASA news","sources":["space.com","nasa.gov","skyandtelescope.org"]},
+    {"name":"Sports","query":"sports latest news","sources":["espn.com","bbc.com","theguardian.com"]},
+    {"name":"Cricket","query":"cricket latest news","sources":["espncricinfo.com","cricbuzz.com"]},
+    {"name":"Football","query":"football soccer latest news","sources":["bbc.com","theguardian.com","espn.com"]},
+    {"name":"Entertainment","query":"entertainment celebrity music news","sources":["variety.com","hollywoodreporter.com","bbc.com"]},
+    {"name":"Movies & TV","query":"movies television streaming news","sources":["variety.com","hollywoodreporter.com","deadline.com"]},
+    {"name":"Gaming","query":"video games gaming industry news","sources":["ign.com","gamespot.com","eurogamer.net"]},
+    {"name":"Business","query":"business companies industry news","sources":["reuters.com","bloomberg.com","cnbc.com"]},
+    {"name":"Economy","query":"economy inflation economic news","sources":["reuters.com","cnbc.com","bbc.com"]},
+    {"name":"Markets & Finance","query":"stock market finance investing news","sources":["reuters.com","cnbc.com","marketwatch.com"]},
+    {"name":"Health","query":"health medical research news","sources":["who.int","medicalxpress.com","bbc.com"]},
+    {"name":"Education","query":"education schools universities news","sources":["insidehighered.com","edweek.org","bbc.com"]},
+    {"name":"Environment & Climate","query":"environment climate change news","sources":["climatechangenews.com","carbonbrief.org","theguardian.com"]},
+    {"name":"Politics","query":"politics government policy news","sources":["reuters.com","apnews.com","bbc.com"]},
+    {"name":"Cybersecurity","query":"cybersecurity data breach security news","sources":["bleepingcomputer.com","theregister.com","darkreading.com"]}
+  ]
+}
