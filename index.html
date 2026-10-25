@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1020">
+  <meta name="description" content="Pulse News — a bilingual English and Bengali news reader covering world news, Bangladesh, technology, science, sports and more.">
+  <title>Pulse News — Your World. One Feed.</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+Bengali:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="Pulse News home"><span class="brand-mark">P</span><span>pulse<span class="brand-accent">news</span><small>YOUR WORLD. ONE FEED.</small></span></a>
+    <div class="header-actions">
+      <label class="sr-only" for="languageSelect">Language</label>
+      <select id="languageSelect" class="language-select" aria-label="Choose language"><option value="en">🇬🇧 English</option><option value="bn">🇧🇩 বাংলা</option></select>
+      <button id="themeBtn" class="icon-button" type="button" aria-label="Toggle theme" title="Toggle theme">☼</button>
+    </div>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="hero-copy"><span class="eyebrow"><i></i> THE WORLD, IN FOCUS</span><h1>News moves fast.<br><span>Stay ahead.</span></h1><p>Explore headlines from publishers around the world, organized in one place.</p>
+        <div class="hero-stats"><span><b id="storyCount">—</b> <span id="storyLabel">stories collected</span></span><span class="stat-dot">·</span><span><b id="updatedAt">—</b></span></div>
+      </div>
+      <div class="hero-orbit" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit-core">P<span>•</span></div><span class="orbit-tag tag-one">LIVE TOPICS</span><span class="orbit-tag tag-two">GLOBAL VIEW</span></div>
+    </section>
+    <section class="topic-section"><div class="section-kicker">PERSONALIZE YOUR FEED</div><nav id="categoryNav" class="category-nav" aria-label="News categories"></nav></section>
+    <section class="newsroom">
+      <div class="section-heading"><div><span class="eyebrow">THE NEWSROOM</span><h2 id="feedTitle">Top Stories</h2><p id="resultCount">Browse the latest collected headlines.</p></div><div class="heading-actions"><button id="savedBtn" class="soft-button" type="button">★ Saved</button><button id="latestBtn" class="soft-button active" type="button">✦ All News</button></div></div>
+      <div class="toolbar"><div class="search-wrap"><span aria-hidden="true">⌕</span><label class="sr-only" for="searchInput">Search news</label><input id="searchInput" type="search" placeholder="Search headlines, topics or publishers..."><button id="clearSearch" type="button" aria-label="Clear search">×</button></div><button id="refreshBtn" class="primary-button" type="button">↻ Refresh</button></div>
+      <p id="statusMessage" class="status-message" role="status" aria-live="polite">Loading the latest collected stories…</p>
+      <div id="newsGrid" class="news-grid" aria-live="polite"></div>
+      <div class="load-row"><button id="loadMoreBtn" class="soft-button load-more" type="button">Load more stories</button></div>
+    </section>
+  </main>
+  <footer><p>Pulse News <span>·</span> Built by <strong>Sayeef Adnan</strong></p><p class="footer-note">Headlines and summaries are provided by their respective publishers. Open the source article for full coverage.</p></footer>
+  <button id="backTop" class="back-top" type="button" aria-label="Back to top">↑</button>
+</body>
+</html>
