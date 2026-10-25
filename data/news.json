@@ -1,0 +1,8 @@
+{
+  "updatedAt": null,
+  "categories": ["World News", "Bangladesh", "Technology", "Science", "Artificial Intelligence", "Space", "Sports", "Cricket", "Football", "Entertainment", "Movies & TV", "Gaming", "Business", "Economy", "Markets & Finance", "Health", "Education", "Environment & Climate", "Politics", "Cybersecurity"],
+  "total": 0,
+  "languageTotals": {"en": 0, "bn": 0},
+  "articlesByLanguage": {"en": [], "bn": []},
+  "articles": []
+}
