@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T02:42:46.372154+00:00",
+  "updatedAt": "2026-10-26T02:50:09.787293+00:00",
   "categories": [
     "World News",
     "Bangladesh",
@@ -22,10 +22,10 @@
     "Politics",
     "Cybersecurity"
   ],
-  "total": 405,
+  "total": 408,
   "languageTotals": {
-    "en": 405,
-    "bn": 168
+    "en": 408,
+    "bn": 169
   },
   "articlesByLanguage": {
     "en": [
@@ -1157,6 +1157,26 @@
         "publisher": "Science | AAAS",
         "category": "Science",
         "published": "2026-10-23T15:12:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "12ee0aa0eb09800363d5",
+        "title": "Premier League: 10 things to look out for this weekend - The Guardian",
+        "summary": "Premier League: 10 things to look out for this weekend The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3VPa2pzajh1aHd0SzZWbUtPQ3VjNDR3bHZSMVRrZ3MtcXhMTDl2NFViRGRqQlNvdy1vSHBUbERkV2NBdTFqRWlwcVRlTFdFcDhGNHhUM1NlQkxab3ctQmtkX09WQ0p6WjFFNWJ6Q3RKeWxGQVVzX1hkWWNicEdlMm9sZ0pGdzgyQXY5Sk1RcE1OV1Q1X2gwQ1M4eGdOaVBPZFRKWg?oc=5",
+        "publisher": "The Guardian",
+        "category": "Football",
+        "published": "2026-10-23T14:52:00+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "29a1cf2fb2d243d63402",
+        "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera - The Verge",
+        "summary": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera The Verge",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZG5XWVhUZ3J5VGZHaU0wdWExLUZsaTFkZEdqSFBJOUVsaGhQTnp4eTV6cmxyV3VuTlJIX00yaHctMXVGWERrWm1ZVk1NcVM3TkEyc3dXQU5XVHdWWk1obERrbUFNRnpPLW5NLV8zYWFfUUp2U3BNSFhlTHpSQjZoX2cwbHpGQ3RDXzJrVFVDbGpvREliZ0M0?oc=5",
+        "publisher": "The Verge",
+        "category": "Technology",
+        "published": "2026-10-23T14:42:46+00:00",
         "lang": "en"
       },
       {
@@ -2577,6 +2597,16 @@
         "publisher": "TechCrunch",
         "category": "Artificial Intelligence",
         "published": "2026-10-21T20:27:41+00:00",
+        "lang": "en"
+      },
+      {
+        "id": "10e2cc36087607bf8005",
+        "title": "Bose acquires Skullcandy to help it reach a wider audience - The Verge",
+        "summary": "Bose acquires Skullcandy to help it reach a wider audience The Verge",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVcxTUpfbmxiaFlLaHo4M0trbmNVRFh2a09uN2lLcHBwY1JubVdLdVRrbnFjeTVQVW1jaG5vMTFyTFItNlV5UmM0cDBBdlBrVm9PQWRWU2x1RkU3bW5kOWwtT0RxRXhnUll3VE1rQU41dV9LbThNTVl3YThzcDBxQ0owbXRuejd4WlVfNmhnZk94ZDM3akNJLQ?oc=5",
+        "publisher": "The Verge",
+        "category": "Technology",
+        "published": "2026-10-21T20:15:00+00:00",
         "lang": "en"
       },
       {
@@ -5760,6 +5790,16 @@
         "category": "Economy",
         "published": "2026-10-12T07:00:00+00:00",
         "lang": "bn"
+      },
+      {
+        "id": "86f387a0db18fb732dcb",
+        "title": "এআইয়ের সুর ও কণ্ঠে জেডিসি একাডেমির গান, আসছে ‘জীবনটা যে সে নদীর মতো’ - Jagonews24",
+        "summary": "এআইয়ের সুর ও কণ্ঠে জেডিসি একাডেমির গান, আসছে ‘জীবনটা যে সে নদীর মতো’ Jagonews24",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDTVVULUdDSm15VXU4TU1NOFoyVjkyWS1DUl9ud2ExWDk2T0FfV1BQTVBvS3duOEpDYU1MQWJmTExDV1V2Z2pwVFVqMnRZYUVkemFKaDNHYThnandhdVk2VmI0UQ?oc=5",
+        "publisher": "Jagonews24",
+        "category": "Entertainment",
+        "published": "2026-10-12T07:00:00+00:00",
+        "lang": "bn"
       }
     ]
   },
@@ -6892,6 +6932,26 @@
       "publisher": "Science | AAAS",
       "category": "Science",
       "published": "2026-10-23T15:12:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "12ee0aa0eb09800363d5",
+      "title": "Premier League: 10 things to look out for this weekend - The Guardian",
+      "summary": "Premier League: 10 things to look out for this weekend The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3VPa2pzajh1aHd0SzZWbUtPQ3VjNDR3bHZSMVRrZ3MtcXhMTDl2NFViRGRqQlNvdy1vSHBUbERkV2NBdTFqRWlwcVRlTFdFcDhGNHhUM1NlQkxab3ctQmtkX09WQ0p6WjFFNWJ6Q3RKeWxGQVVzX1hkWWNicEdlMm9sZ0pGdzgyQXY5Sk1RcE1OV1Q1X2gwQ1M4eGdOaVBPZFRKWg?oc=5",
+      "publisher": "The Guardian",
+      "category": "Football",
+      "published": "2026-10-23T14:52:00+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "29a1cf2fb2d243d63402",
+      "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera - The Verge",
+      "summary": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZG5XWVhUZ3J5VGZHaU0wdWExLUZsaTFkZEdqSFBJOUVsaGhQTnp4eTV6cmxyV3VuTlJIX00yaHctMXVGWERrWm1ZVk1NcVM3TkEyc3dXQU5XVHdWWk1obERrbUFNRnpPLW5NLV8zYWFfUUp2U3BNSFhlTHpSQjZoX2cwbHpGQ3RDXzJrVFVDbGpvREliZ0M0?oc=5",
+      "publisher": "The Verge",
+      "category": "Technology",
+      "published": "2026-10-23T14:42:46+00:00",
       "lang": "en"
     },
     {
@@ -8312,6 +8372,16 @@
       "publisher": "TechCrunch",
       "category": "Artificial Intelligence",
       "published": "2026-10-21T20:27:41+00:00",
+      "lang": "en"
+    },
+    {
+      "id": "10e2cc36087607bf8005",
+      "title": "Bose acquires Skullcandy to help it reach a wider audience - The Verge",
+      "summary": "Bose acquires Skullcandy to help it reach a wider audience The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVcxTUpfbmxiaFlLaHo4M0trbmNVRFh2a09uN2lLcHBwY1JubVdLdVRrbnFjeTVQVW1jaG5vMTFyTFItNlV5UmM0cDBBdlBrVm9PQWRWU2x1RkU3bW5kOWwtT0RxRXhnUll3VE1rQU41dV9LbThNTVl3YThzcDBxQ0owbXRuejd4WlVfNmhnZk94ZDM3akNJLQ?oc=5",
+      "publisher": "The Verge",
+      "category": "Technology",
+      "published": "2026-10-21T20:15:00+00:00",
       "lang": "en"
     },
     {
